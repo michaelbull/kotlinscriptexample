@@ -22,5 +22,6 @@ plugins {
 include(":app")
 include(":script-usage")
 include(":script-definition")
+include(":common")
 
 rootProject.name = "kotlinscriptexample"
