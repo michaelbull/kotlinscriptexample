@@ -1,0 +1,2 @@
+- https://youtrack.jetbrains.com/issue/KTIJ-32835/Broken-resolution-when-referencing-declaration-from-another-module-in-custom-script
+- https://youtrack.jetbrains.com/issue/KTIJ-32839/Custom-scripts-always-resolve-into-class-files-even-when-sources-are-available
